@@ -1,5 +1,9 @@
 import func
 
+"""
+Обчислити суму (x-i)/(i**2) для перших n членів починаючи з 1.
+"""
+
 def execute():
     print("Введіть число x:")
     varX = func.float_Validator()
